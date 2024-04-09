@@ -1,5 +1,5 @@
-import DashboardFeature from '@/components/dashboard/dashboard-feature';
+import BetFeature from '@/components/bet/bet-feature';
 
 export default function Page() {
-  return <DashboardFeature />;
+  return <BetFeature />;
 }
